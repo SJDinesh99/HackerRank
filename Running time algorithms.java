@@ -31,3 +31,12 @@ class Solution
         System.out.println(count);
     }
 }
+
+//Sample Input
+STDIN       Function
+-----       --------
+5           arr[] size n =5
+2 1 3 1 2   arr = [2, 1, 3, 1, 2]
+
+//Sample Output
+4
