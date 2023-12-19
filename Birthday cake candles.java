@@ -32,3 +32,10 @@ class Solution
         
     }
 }
+
+//Sample Input
+4
+3 2 1 3
+
+//Sample Output 
+2
