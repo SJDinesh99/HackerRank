@@ -23,3 +23,19 @@ class Solution
         }
     }
 }
+
+
+//Sample Input
+5
+AAAA
+BBBBB
+ABABABAB
+BABABA
+AAABBB
+
+//Sample Output
+3
+4
+0
+0
+4
