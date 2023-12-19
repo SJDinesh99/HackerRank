@@ -20,3 +20,9 @@ class Solution
         System.out.println(wordCount);
     }
 }
+
+//Sample Input
+saveChangesInTheEditor
+
+//Sample Output
+5
