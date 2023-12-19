@@ -19,3 +19,9 @@ public class Solution {
         System.out.println(count);
     }
 }
+
+//Sample Input 
+SOSSPSSQSSOR
+
+//Sample Output 
+3
