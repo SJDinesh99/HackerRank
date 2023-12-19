@@ -16,3 +16,10 @@ public class Solution {
         System.out.println(sum);
 	}
 }
+
+//Sample Input
+a = 2
+b = 3
+
+//Sample Output
+5
