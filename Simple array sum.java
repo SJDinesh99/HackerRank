@@ -18,3 +18,10 @@ class Solution
         System.out.println(sum);
     }
 }
+
+//Sample Input
+6
+1 2 3 4 10 11
+
+//Sample Output
+31
