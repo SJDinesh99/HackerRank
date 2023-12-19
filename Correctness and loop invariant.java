@@ -22,3 +22,10 @@ class Solution {
         }
     }
 }
+
+//Sample Input
+6
+7 4 3 5 6 2
+
+//Sample Output
+2 3 4 5 6 7
