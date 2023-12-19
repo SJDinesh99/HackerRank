@@ -19,3 +19,12 @@ class Solution
         }
     }
 }
+
+//Sample Input
+STDIN       Function
+-----       --------
+5           arr[] size n =5
+4 5 3 7 2   arr =[4, 5, 3, 7, 2]
+
+//Sample Output
+3 2 4 5 7
